@@ -2,16 +2,16 @@
 
 ## Table of Contents
 1. [Introduction](#1-introduction)
-   1.1 [Purpose](#11-purpose)
-   1.2 [Glossary and References](#12-glossary-and-references)
-   1.3 [Scope](#13-scope)
+      1.1 [Purpose](#11-purpose)
+      1.2 [Glossary and References](#12-glossary-and-references)
+      1.3 [Scope](#13-scope)
 2. [Overall Description](#2-overall-description)
-   2.1 [User Needs](#21-user-needs)
-   2.2 [Assumptions and Dependencies](#22-assumptions-and-dependencies)
+      2.1 [User Needs](#21-user-needs)
+      2.2 [Assumptions and Dependencies](#22-assumptions-and-dependencies)
 3. [Features and Requirements](#3-features-and-requirements)
-   3.1 [Functional Requirements](#31-functional-requirements)
-   3.2 [Nonfunctional Requirements](#32-nonfunctional-requirements)
-   3.3 [External Interface Requirements](#33-external-interface-requirements)
+      3.1 [Functional Requirements](#31-functional-requirements)
+      3.2 [Nonfunctional Requirements](#32-nonfunctional-requirements)
+      3.3 [External Interface Requirements](#33-external-interface-requirements)
 
 ## 1. Introduction
 ### 1.1 Purpose
