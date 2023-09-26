@@ -91,4 +91,7 @@ The system operates optimally with modern, standard web browsers.
    - Accessibility via standard web browsers over the college's network.
 
 In summary, the Student Result Management System (SRMS) is a sophisticated software solution engineered to enhance and expedite the result management process for an engineering college. By offering comprehensive result management capabilities, safeguarding data integrity, and ensuring user-friendly interfaces, SRMS seeks to elevate efficiency, accuracy, and user satisfaction in managing student academic results.
+# Usecase Diagram 
+![image](https://github.com/akashcsd/Student-result-management-SRS/assets/143491611/c0770790-e65c-4b20-81d6-a70ef341917b)
+
 
